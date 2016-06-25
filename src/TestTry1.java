@@ -5,5 +5,4 @@ public class TestTry1 {
 	{
 		System.out.println("hello from github");
 	}
-
 }
